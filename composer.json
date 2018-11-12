@@ -1,7 +1,7 @@
 {
-  "name": "heimrichhannot-contao-components/umbrellajs",
+  "name": "heimrichhannot-contao-components/slick",
   "type": "contao-component",
-  "description": "Umbrellajs integration for Contao Open Source CMS",
+  "description": "Slick slider integration for Contao Open Source CMS",
   "license": "MIT",
   "authors": [
     {
